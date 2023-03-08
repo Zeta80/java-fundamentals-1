@@ -5,6 +5,7 @@ import java.text.DecimalFormat;
 import java.util.Scanner;
 
 public class Es1 {
+    //eSERCIZIO BIGLIETTO DEL TRENO
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         DecimalFormat df = new DecimalFormat("#.##");

@@ -3,7 +3,7 @@ package foundamentals.java;
 import java.util.Scanner;
 
 public class Es2 {
-
+    //FIZZBUZZ 🗿🗿
     public static void main(String[] args) {
 
         Scanner input = new Scanner(System.in);
